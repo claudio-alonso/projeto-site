@@ -9,11 +9,11 @@ body {
 }
 
 main {
-    background-color: white;
-    width: 500px;
+    background-color: rgb(255, 255, 255);
+    width: 700px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473); 
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.473); 
 }
 
 h1 {
